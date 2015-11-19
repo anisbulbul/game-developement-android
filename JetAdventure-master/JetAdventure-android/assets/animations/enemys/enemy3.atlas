@@ -1,0 +1,47 @@
+
+enemy3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+03
+  rotate: false
+  xy: 0, 127
+  size: 112, 126
+  orig: 128, 128
+  offset: 4, 0
+  index: -1
+05
+  rotate: false
+  xy: 0, 127
+  size: 112, 126
+  orig: 128, 128
+  offset: 4, 0
+  index: -1
+02
+  rotate: false
+  xy: 0, 0
+  size: 105, 127
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+06
+  rotate: false
+  xy: 0, 0
+  size: 105, 127
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+01
+  rotate: false
+  xy: 112, 127
+  size: 105, 126
+  orig: 128, 128
+  offset: 9, 1
+  index: -1
+04
+  rotate: false
+  xy: 105, 1
+  size: 105, 126
+  orig: 128, 128
+  offset: 4, 0
+  index: -1

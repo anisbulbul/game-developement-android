@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">3D Car Race</string>
+    
+    <string name="gamehelper_app_misconfigured">configuration missing</string>
+    <string name="gamehelper_sign_in_failed">Failed to Sign</string>
+    <string name="gamehelper_license_failed">license problem</string>
+    <string name="gamehelper_unknown_error">Unknown error</string>
+    
+    <string name="back_option_text">anisbulbul is an independent android game developer that makes 2D, 3D games, apps for adroid devices, any type of android devices are supported. Thanks for your support us</string>
+    
+    <string name="app_id">480491601782</string>
+    
+    <string name="achievement_last_place">CgkI9v6f_P0NEAIQAQ</string>
+    <string name="achievement_new_puzzle">CgkI9v6f_P0NEAIQAg</string>
+    <string name="achievement_update_level">CgkI9v6f_P0NEAIQAw</string>
+    <string name="achievement_setting_puzzle">CgkI9v6f_P0NEAIQBA</string>
+    <string name="achievement_win_game_puzzle">CgkI9v6f_P0NEAIQBQ</string>
+    
+    <string name="leaderboard_high_score">CgkI9v6f_P0NEAIQBg</string>
+    <string name="leaderboard_trophy_builder">CgkI9v6f_P0NEAIQCA</string>
+
+</resources>

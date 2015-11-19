@@ -1,0 +1,26 @@
+
+hero5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ninja_die
+  rotate: false
+  xy: 1, 131
+  size: 127, 121
+  orig: 128, 128
+  offset: 1, 0
+  index: 2
+ninja_die
+  rotate: false
+  xy: 1, 1
+  size: 115, 128
+  orig: 128, 128
+  offset: 7, 0
+  index: 1
+ninja_die
+  rotate: false
+  xy: 118, 24
+  size: 128, 105
+  orig: 128, 128
+  offset: 0, 0
+  index: 3

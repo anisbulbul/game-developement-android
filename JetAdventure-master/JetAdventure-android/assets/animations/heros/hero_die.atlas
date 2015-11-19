@@ -1,0 +1,47 @@
+
+hero_die.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+05
+  rotate: false
+  xy: 1, 127
+  size: 114, 128
+  orig: 128, 128
+  offset: 7, 0
+  index: -1
+03
+  rotate: false
+  xy: 1, 1
+  size: 84, 124
+  orig: 128, 128
+  offset: 22, 2
+  index: -1
+06
+  rotate: false
+  xy: 117, 127
+  size: 108, 128
+  orig: 128, 128
+  offset: 10, 0
+  index: -1
+02
+  rotate: false
+  xy: 87, 21
+  size: 128, 104
+  orig: 128, 128
+  offset: 0, 12
+  index: -1
+04
+  rotate: false
+  xy: 227, 155
+  size: 128, 100
+  orig: 128, 128
+  offset: 0, 14
+  index: -1
+01
+  rotate: false
+  xy: 357, 175
+  size: 128, 80
+  orig: 128, 128
+  offset: 0, 24
+  index: -1

@@ -1,0 +1,47 @@
+
+hero8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+matal_sprite
+  rotate: false
+  xy: 0, 156
+  size: 128, 99
+  orig: 128, 128
+  offset: 0, 14
+  index: 5
+matal_sprite
+  rotate: false
+  xy: 128, 157
+  size: 128, 98
+  orig: 128, 128
+  offset: 0, 15
+  index: 1
+matal_sprite
+  rotate: false
+  xy: 128, 68
+  size: 128, 89
+  orig: 128, 128
+  offset: 0, 20
+  index: 2
+matal_sprite
+  rotate: false
+  xy: 0, 75
+  size: 128, 81
+  orig: 128, 128
+  offset: 0, 23
+  index: 4
+matal_sprite
+  rotate: false
+  xy: 0, 7
+  size: 128, 68
+  orig: 128, 128
+  offset: 0, 30
+  index: 3
+matal_sprite
+  rotate: false
+  xy: 128, 0
+  size: 127, 68
+  orig: 128, 128
+  offset: 0, 30
+  index: 6

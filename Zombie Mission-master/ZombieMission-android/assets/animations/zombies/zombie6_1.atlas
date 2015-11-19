@@ -1,0 +1,75 @@
+
+zombie6_1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Zombie-6--Die
+  rotate: false
+  xy: 0, 118
+  size: 90, 120
+  orig: 128, 128
+  offset: 29, 0
+  index: 1
+Zombie-6--Die
+  rotate: false
+  xy: 90, 133
+  size: 101, 105
+  orig: 128, 128
+  offset: 23, 3
+  index: 5
+Zombie-6--Die
+  rotate: false
+  xy: 191, 141
+  size: 108, 97
+  orig: 128, 128
+  offset: 18, 5
+  index: 7
+Zombie-6--Die
+  rotate: false
+  xy: 299, 144
+  size: 111, 94
+  orig: 128, 128
+  offset: 16, 4
+  index: 8
+Zombie-6--Die
+  rotate: false
+  xy: 0, 3
+  size: 85, 115
+  orig: 128, 128
+  offset: 32, 4
+  index: 2
+Zombie-6--Die
+  rotate: false
+  xy: 410, 130
+  size: 97, 108
+  orig: 128, 128
+  offset: 26, 4
+  index: 4
+Zombie-6--Die
+  rotate: false
+  xy: 85, 0
+  size: 77, 118
+  orig: 128, 128
+  offset: 36, 3
+  index: 0
+Zombie-6--Die
+  rotate: false
+  xy: 162, 23
+  size: 91, 110
+  orig: 128, 128
+  offset: 29, 5
+  index: 3
+Zombie-6--Die
+  rotate: false
+  xy: 253, 40
+  size: 103, 101
+  orig: 128, 128
+  offset: 21, 4
+  index: 6
+Zombie-6--Die
+  rotate: false
+  xy: 356, 37
+  size: 112, 93
+  orig: 128, 128
+  offset: 16, 5
+  index: 9

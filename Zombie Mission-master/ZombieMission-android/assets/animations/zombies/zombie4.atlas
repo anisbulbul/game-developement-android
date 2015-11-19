@@ -1,0 +1,75 @@
+
+zombie4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Zombie-4--Walk
+  rotate: false
+  xy: 0, 118
+  size: 86, 118
+  orig: 128, 128
+  offset: 21, 5
+  index: 0
+Zombie-4--Walk
+  rotate: false
+  xy: 0, 0
+  size: 86, 118
+  orig: 128, 128
+  offset: 20, 5
+  index: 10
+Zombie-4--Walk
+  rotate: false
+  xy: 86, 119
+  size: 86, 117
+  orig: 128, 128
+  offset: 20, 6
+  index: 1
+Zombie-4--Walk
+  rotate: false
+  xy: 86, 2
+  size: 86, 117
+  orig: 128, 128
+  offset: 20, 6
+  index: 2
+Zombie-4--Walk
+  rotate: false
+  xy: 172, 119
+  size: 86, 117
+  orig: 128, 128
+  offset: 19, 6
+  index: 3
+Zombie-4--Walk
+  rotate: false
+  xy: 172, 2
+  size: 86, 117
+  orig: 128, 128
+  offset: 19, 6
+  index: 7
+Zombie-4--Walk
+  rotate: false
+  xy: 258, 119
+  size: 86, 117
+  orig: 128, 128
+  offset: 19, 6
+  index: 8
+Zombie-4--Walk
+  rotate: false
+  xy: 258, 2
+  size: 86, 117
+  orig: 128, 128
+  offset: 20, 6
+  index: 9
+Zombie-4--Walk
+  rotate: false
+  xy: 344, 120
+  size: 86, 116
+  orig: 128, 128
+  offset: 19, 7
+  index: 4
+Zombie-4--Walk
+  rotate: false
+  xy: 344, 4
+  size: 85, 116
+  orig: 128, 128
+  offset: 19, 7
+  index: 6

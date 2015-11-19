@@ -1,0 +1,47 @@
+
+hero4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+matal_sprite
+  rotate: false
+  xy: 0, 128
+  size: 99, 128
+  orig: 128, 128
+  offset: 15, 0
+  index: 5
+matal_sprite
+  rotate: false
+  xy: 0, 0
+  size: 98, 128
+  orig: 128, 128
+  offset: 15, 0
+  index: 1
+matal_sprite
+  rotate: false
+  xy: 98, 0
+  size: 89, 128
+  orig: 128, 128
+  offset: 19, 0
+  index: 2
+matal_sprite
+  rotate: false
+  xy: 99, 128
+  size: 81, 128
+  orig: 128, 128
+  offset: 24, 0
+  index: 4
+matal_sprite
+  rotate: false
+  xy: 180, 128
+  size: 68, 128
+  orig: 128, 128
+  offset: 30, 0
+  index: 3
+matal_sprite
+  rotate: false
+  xy: 187, 1
+  size: 68, 127
+  orig: 128, 128
+  offset: 30, 0
+  index: 6

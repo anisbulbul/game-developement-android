@@ -1,0 +1,26 @@
+
+animfire.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire7
+  rotate: false
+  xy: 0, 28
+  size: 33, 33
+  orig: 64, 64
+  offset: 16, 14
+  index: -1
+fire6
+  rotate: false
+  xy: 0, 0
+  size: 29, 28
+  orig: 64, 64
+  offset: 18, 17
+  index: -1
+fire5
+  rotate: false
+  xy: 33, 36
+  size: 25, 25
+  orig: 64, 64
+  offset: 20, 19
+  index: -1

@@ -1,0 +1,47 @@
+
+bullet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet4
+  rotate: false
+  xy: 0, 26
+  size: 128, 31
+  orig: 128, 64
+  offset: 0, 15
+  index: -1
+bullet1
+  rotate: false
+  xy: 0, 0
+  size: 128, 26
+  orig: 128, 64
+  offset: 0, 26
+  index: -1
+bullet3
+  rotate: false
+  xy: 0, 0
+  size: 128, 26
+  orig: 128, 64
+  offset: 0, 26
+  index: -1
+bullet6
+  rotate: false
+  xy: 128, 21
+  size: 122, 36
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 250, 22
+  size: 122, 35
+  orig: 128, 64
+  offset: 0, 28
+  index: -1
+bullet5
+  rotate: false
+  xy: 372, 30
+  size: 127, 27
+  orig: 128, 64
+  offset: 1, 12
+  index: -1

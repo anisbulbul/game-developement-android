@@ -1,0 +1,47 @@
+
+hero2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sprite
+  rotate: false
+  xy: 1, 261
+  size: 120, 128
+  orig: 128, 128
+  offset: 4, 0
+  index: 6
+sprite
+  rotate: false
+  xy: 1, 131
+  size: 118, 128
+  orig: 128, 128
+  offset: 5, 0
+  index: 5
+sprite
+  rotate: false
+  xy: 123, 261
+  size: 115, 128
+  orig: 128, 128
+  offset: 7, 0
+  index: 1
+sprite
+  rotate: false
+  xy: 1, 1
+  size: 115, 128
+  orig: 128, 128
+  offset: 7, 0
+  index: 2
+sprite
+  rotate: false
+  xy: 121, 131
+  size: 112, 128
+  orig: 128, 128
+  offset: 8, 0
+  index: 4
+sprite
+  rotate: false
+  xy: 118, 1
+  size: 109, 128
+  orig: 128, 128
+  offset: 10, 0
+  index: 3

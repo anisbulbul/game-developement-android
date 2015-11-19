@@ -1,0 +1,47 @@
+
+hero1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ninja_walk
+  rotate: false
+  xy: 1, 127
+  size: 95, 128
+  orig: 128, 128
+  offset: 17, 0
+  index: 4
+ninja_walk
+  rotate: false
+  xy: 1, 1
+  size: 91, 124
+  orig: 128, 128
+  offset: 18, 2
+  index: 6
+ninja_walk
+  rotate: false
+  xy: 98, 127
+  size: 95, 128
+  orig: 128, 128
+  offset: 17, 0
+  index: 5
+ninja_walk
+  rotate: false
+  xy: 195, 127
+  size: 94, 128
+  orig: 128, 128
+  offset: 17, 0
+  index: 1
+ninja_walk
+  rotate: false
+  xy: 291, 127
+  size: 94, 128
+  orig: 128, 128
+  offset: 17, 0
+  index: 3
+ninja_walk
+  rotate: false
+  xy: 387, 128
+  size: 94, 127
+  orig: 128, 128
+  offset: 17, 0
+  index: 2

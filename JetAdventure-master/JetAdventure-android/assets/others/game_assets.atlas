@@ -1,0 +1,215 @@
+
+game_assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background_loading
+  rotate: false
+  xy: 1, 491
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+background_menu
+  rotate: false
+  xy: 259, 491
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 517, 491
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+background_quitscreen
+  rotate: false
+  xy: 1, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tabtoplay
+  rotate: false
+  xy: 259, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+background_play2
+  rotate: false
+  xy: 775, 747
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+background_play3
+  rotate: false
+  xy: 517, 233
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+brick1
+  rotate: false
+  xy: 1, 167
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+brick2
+  rotate: false
+  xy: 1, 101
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+brick3
+  rotate: false
+  xy: 259, 167
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+brick4
+  rotate: false
+  xy: 1, 35
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+brick5
+  rotate: false
+  xy: 259, 101
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+volume_progress1
+  rotate: false
+  xy: 905, 747
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+volume_progress2
+  rotate: false
+  xy: 647, 233
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+volume_progress3
+  rotate: false
+  xy: 775, 489
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+volume_progress4
+  rotate: false
+  xy: 841, 489
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 517, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+background_play1
+  rotate: false
+  xy: 647, 103
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+snack_head
+  rotate: false
+  xy: 259, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+volume_icon1
+  rotate: false
+  xy: 325, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+volume_icon2
+  rotate: false
+  xy: 391, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+volume_icon3
+  rotate: false
+  xy: 907, 681
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+volume_icon4
+  rotate: false
+  xy: 907, 615
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: false
+  xy: 713, 457
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect3
+  rotate: false
+  xy: 457, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect4
+  rotate: false
+  xy: 971, 971
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect5
+  rotate: false
+  xy: 907, 581
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+screenover
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+snack_body
+  rotate: false
+  xy: 713, 423
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zombie Mission Xtreme</string>
+    
+    <string name="gamehelper_app_misconfigured">configuration missing</string>
+    <string name="gamehelper_sign_in_failed">Failed to Sign</string>
+    <string name="gamehelper_license_failed">license problem</string>
+    <string name="gamehelper_unknown_error">Unknown error</string>
+    
+    <string name="back_option_text">AnroSoft Ltd is an independent android apps, game developer that makes 2D, 3D games, apps for adroid devices, any type of android devices are supported. Thanks for your support us</string>
+    
+    <string name="app_id">195662533425</string>
+   
+    <string name="achievement_kill_zombie">CgkIsaaV89gFEAIQAQ</string>
+    <string name="achievement_medium_level">CgkIsaaV89gFEAIQAg</string>
+    <string name="achievement_zombie_mission">CgkIsaaV89gFEAIQAw</string>
+    <string name="achievement_xtreme_killers">CgkIsaaV89gFEAIQBA</string>
+    <string name="achievement_final_mission">CgkIsaaV89gFEAIQBQ</string>
+   
+    <string name="leaderboard_high_score">CgkIsaaV89gFEAIQBg</string>
+    <string name="leaderboard_zombie_trophy">CgkIsaaV89gFEAIQCA</string>
+
+</resources>

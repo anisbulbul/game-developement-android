@@ -1,0 +1,75 @@
+
+zombie7_1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Zombie-7--Die
+  rotate: false
+  xy: 0, 112
+  size: 96, 101
+  orig: 128, 128
+  offset: 13, 1
+  index: 5
+Zombie-7--Die
+  rotate: false
+  xy: 0, 6
+  size: 89, 106
+  orig: 128, 128
+  offset: 17, 11
+  index: 2
+Zombie-7--Die
+  rotate: false
+  xy: 96, 115
+  size: 97, 98
+  orig: 128, 128
+  offset: 12, 0
+  index: 6
+Zombie-7--Die
+  rotate: false
+  xy: 193, 121
+  size: 101, 92
+  orig: 128, 128
+  offset: 10, 1
+  index: 7
+Zombie-7--Die
+  rotate: false
+  xy: 294, 128
+  size: 106, 85
+  orig: 128, 128
+  offset: 8, 4
+  index: 8
+Zombie-7--Die
+  rotate: false
+  xy: 400, 132
+  size: 109, 81
+  orig: 128, 128
+  offset: 7, 3
+  index: 9
+Zombie-7--Die
+  rotate: false
+  xy: 89, 0
+  size: 79, 112
+  orig: 128, 128
+  offset: 26, 15
+  index: 0
+Zombie-7--Die
+  rotate: false
+  xy: 168, 7
+  size: 81, 108
+  orig: 128, 128
+  offset: 24, 13
+  index: 1
+Zombie-7--Die
+  rotate: false
+  xy: 249, 17
+  size: 88, 104
+  orig: 128, 128
+  offset: 18, 8
+  index: 3
+Zombie-7--Die
+  rotate: false
+  xy: 337, 25
+  size: 92, 103
+  orig: 128, 128
+  offset: 16, 4
+  index: 4

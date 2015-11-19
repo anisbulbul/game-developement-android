@@ -1,0 +1,33 @@
+
+hero7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wood_man_sprite
+  rotate: false
+  xy: 0, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+wood_man_sprite
+  rotate: false
+  xy: 128, 151
+  size: 128, 86
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+wood_man_sprite
+  rotate: false
+  xy: 0, 0
+  size: 127, 109
+  orig: 128, 128
+  offset: 1, 1
+  index: 2
+wood_man_sprite
+  rotate: false
+  xy: 128, 47
+  size: 127, 104
+  orig: 128, 128
+  offset: 1, 0
+  index: 3

@@ -1,0 +1,47 @@
+
+hero6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sprite
+  rotate: false
+  xy: 1, 121
+  size: 128, 120
+  orig: 128, 128
+  offset: 0, 4
+  index: 6
+sprite
+  rotate: false
+  xy: 1, 1
+  size: 128, 118
+  orig: 128, 128
+  offset: 0, 5
+  index: 5
+sprite
+  rotate: false
+  xy: 131, 126
+  size: 128, 115
+  orig: 128, 128
+  offset: 0, 6
+  index: 1
+sprite
+  rotate: false
+  xy: 131, 9
+  size: 128, 115
+  orig: 128, 128
+  offset: 0, 6
+  index: 2
+sprite
+  rotate: false
+  xy: 261, 129
+  size: 128, 112
+  orig: 128, 128
+  offset: 0, 8
+  index: 4
+sprite
+  rotate: false
+  xy: 261, 18
+  size: 128, 109
+  orig: 128, 128
+  offset: 0, 9
+  index: 3

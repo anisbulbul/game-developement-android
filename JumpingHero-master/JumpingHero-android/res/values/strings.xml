@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jumping Hero</string>
+    
+    <string name="gamehelper_app_misconfigured">configuration missing</string>
+    <string name="gamehelper_sign_in_failed">Failed to Sign</string>
+    <string name="gamehelper_license_failed">license problem</string>
+    <string name="gamehelper_unknown_error">Unknown error</string>
+
+    <string name="back_option_text">Anrosoft Ltd is an independent android game developer that makes 2D, 3D games, apps for adroid devices, any type of android devices are supported. Thanks for your support us</string>
+    
+    <string name="app_id">219466959902</string>
+    
+    <string name="achievement_jumping_lesson">CgkInpiAyrEGEAIQAQ</string>
+    <string name="achievement_jumping_level_high">CgkInpiAyrEGEAIQAg</string>
+    <string name="achievement_middle_jumper">CgkInpiAyrEGEAIQAw</string>
+    <string name="achievement_jumper_night_casino">CgkInpiAyrEGEAIQBA</string>
+    <string name="achievement_last_jumper_lite">CgkInpiAyrEGEAIQBQ</string>
+    
+    <string name="leaderboard_high_score">CgkInpiAyrEGEAIQBg</string>
+    <string name="leaderboard_jumper_trophy_winner">CgkInpiAyrEGEAIQBw</string>
+
+</resources>

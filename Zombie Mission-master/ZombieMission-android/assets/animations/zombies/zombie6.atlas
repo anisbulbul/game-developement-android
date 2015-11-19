@@ -1,0 +1,89 @@
+
+zombie6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Zombie-6--Walk
+  rotate: false
+  xy: 0, 119
+  size: 65, 120
+  orig: 128, 128
+  offset: 31, 2
+  index: 11
+Zombie-6--Walk
+  rotate: false
+  xy: 0, 0
+  size: 65, 119
+  orig: 128, 128
+  offset: 30, 4
+  index: 10
+Zombie-6--Walk
+  rotate: false
+  xy: 65, 122
+  size: 66, 117
+  orig: 128, 128
+  offset: 29, 6
+  index: 5
+Zombie-6--Walk
+  rotate: false
+  xy: 65, 4
+  size: 65, 118
+  orig: 128, 128
+  offset: 30, 5
+  index: 9
+Zombie-6--Walk
+  rotate: false
+  xy: 131, 121
+  size: 64, 118
+  orig: 128, 128
+  offset: 32, 4
+  index: 0
+Zombie-6--Walk
+  rotate: false
+  xy: 195, 122
+  size: 64, 117
+  orig: 128, 128
+  offset: 30, 6
+  index: 3
+Zombie-6--Walk
+  rotate: false
+  xy: 259, 122
+  size: 64, 117
+  orig: 128, 128
+  offset: 30, 6
+  index: 8
+Zombie-6--Walk
+  rotate: false
+  xy: 323, 123
+  size: 64, 116
+  orig: 128, 128
+  offset: 31, 6
+  index: 1
+Zombie-6--Walk
+  rotate: false
+  xy: 130, 4
+  size: 63, 117
+  orig: 128, 128
+  offset: 31, 6
+  index: 2
+Zombie-6--Walk
+  rotate: false
+  xy: 387, 122
+  size: 63, 117
+  orig: 128, 128
+  offset: 30, 6
+  index: 4
+Zombie-6--Walk
+  rotate: false
+  xy: 193, 4
+  size: 63, 117
+  orig: 128, 128
+  offset: 30, 6
+  index: 6
+Zombie-6--Walk
+  rotate: false
+  xy: 256, 5
+  size: 63, 117
+  orig: 128, 128
+  offset: 30, 6
+  index: 7
